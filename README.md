@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @samhitamandal
+- 👀 I’m interested in exploring different disciplines such as cybersecurity,machine learning,web development.
+- 🌱 I’m currently learning a bit about everything.
+- 📫 My LinkedIn: https://www.linkedin.com/in/samhita-mandal-2842a427b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 😄 Pronouns: She/Her
+
+<!---
+samhitamandal/samhitamandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
